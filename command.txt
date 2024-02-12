@@ -1,1 +1,1 @@
-whoami > C:\temp\test.txt
+calc.exe
