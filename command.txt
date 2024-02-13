@@ -1,1 +1,1 @@
-wsl
+st|cmd.exe
